@@ -20,3 +20,8 @@ h1 {
     background-color: rgb(53, 36, 208);
     padding: 5px;
 }
+
+img.lado {
+    float:right;
+
+}
